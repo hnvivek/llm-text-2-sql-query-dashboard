@@ -1,11 +1,10 @@
-# LLM Text-to-SQL Query Dashboard
+# LLM Text-to-SQL Query Dashboard 
 
 ## Overview
 
-**LLM Text-to-SQL Query Dashboard** is a web-based tool that allows users to run SQL queries on a database using a natural language interface powered by large language models (LLMs). It seamlessly translates user queries into SQL and provides visualizations or tabular representations of the results in an intuitive and interactive way. 
+[**LLM Text-to-SQL Query Dashboard**](https://llm-text-2-sql-query-dashboard-production.up.railway.app/) is a web-based tool that allows users to run SQL queries on a database using a natural language interface powered by large language models (LLMs). It seamlessly translates user queries into SQL and provides visualizations or tabular representations of the results in an intuitive and interactive way. 
 
 This dashboard is built with **Streamlit** and **Plotly** for a smooth user interface and dynamic visualizations. It is particularly useful for those who are familiar with SQL databases but prefer to interact using simple language queries or for those who want to query databases without deep SQL expertise.
-
 ---
 
 ## Purpose of the Project
