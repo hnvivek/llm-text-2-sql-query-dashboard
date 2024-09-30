@@ -1,0 +1,401 @@
+restaurant_id,name,address,phone_number,email,cuisine_type
+R32379007,Mexican Taco ,"3305 Ann Street Suite 894
+Hughesburgh, NV 49630",587.716.2712x3297,contact@mexicantaco.yahoo.com,Mexican
+R67053557,Greek Santorini ,"4260 Deborah Tunnel Apt. 980
+Lake Charles, VA 53586",251.240.0534,contact@greeksantorini.yahoo.com,Greek
+R34699968,Chinese Mandarin ,"691 Tonya Plains Suite 551
+South Kristyland, SD 16154",001-432-619-6685x41899,contact@chinesemandarin.gmail.com,Chinese
+R78386325,Japanese Samurai ,"6845 Noble Fort Suite 751
+Galvanmouth, MD 36131",(363)943-8801x69956,contact@japanesesamurai.yahoo.com,Japanese
+R91598677,French Parisian ,"439 Hernandez Valley Apt. 706
+Victorbury, PR 82329",588-580-5531x1913,contact@frenchparisian.gmail.com,French
+R83643580,Italian Osteria ,"6715 Morales Forge
+West Jason, CT 23556",643.701.5737,contact@italianosteria.yahoo.com,Italian
+R49476631,Italian Osteria ,"4399 Colleen Via Apt. 471
+Nicholashaven, CT 08111",(218)752-3209x4681,contact@italianosteria.gmail.com,Italian
+R55338520,Indian Spice ,"3255 Mary Lodge
+South Jennafort, WI 50220",(709)269-5103x447,contact@indianspice.yahoo.com,Indian
+R14634685,Mexican Taco ,"431 Nelson Rapids Apt. 061
+Port Erikaside, MN 50791",6822151044,contact@mexicantaco.yahoo.com,Mexican
+R60923263,Greek Taverna ,"85206 Johnson Drive Apt. 230
+Bradleyburgh, MD 43834",9336022109,contact@greektaverna.hotmail.com,Greek
+R81588954,Thai Basil ,"03081 Stevens Street Suite 713
+Carlafort, RI 04789",(862)670-2891,contact@thaibasil.yahoo.com,Thai
+R61379248,Mexican Fiesta ,"36370 Willis Neck
+Robertbury, VT 57630",001-836-556-0096x0024,contact@mexicanfiesta.gmail.com,Mexican
+R32416118,Spanish Flamenco ,"241 Christine Skyway Suite 722
+Leestad, AZ 65224",001-725-717-5376x09470,contact@spanishflamenco.yahoo.com,Spanish
+R75456027,Mexican Fiesta ,"212 Crawford Tunnel
+Port Zachary, MS 75407",001-461-271-9866,contact@mexicanfiesta.hotmail.com,Mexican
+R56379660,Italian Ristorante ,"379 Taylor Ranch Apt. 678
+Port Karaberg, WV 79370",272-682-3721,contact@italianristorante.hotmail.com,Italian
+R66569669,Japanese Sushi ,"03428 Gregory Forges
+Garcialand, MA 69724",(917)302-0973,contact@japanesesushi.hotmail.com,Japanese
+R71781659,Italian Ristorante ,"709 Olsen Vista Apt. 424
+Tamaraborough, NE 92240",722-266-1334,contact@italianristorante.yahoo.com,Italian
+R43358094,Greek Taverna ,"49591 Powell Field
+Stonemouth, KY 48233",001-731-836-9497,contact@greektaverna.hotmail.com,Greek
+R38512515,Greek Santorini ,"37070 Fitzgerald Creek Apt. 640
+West Kathleen, ND 58849",(285)305-5835x5870,contact@greeksantorini.hotmail.com,Greek
+R88293228,Spanish Paella ,"Unit 2939 Box 9021
+DPO AP 71505",(314)306-6857,contact@spanishpaella.gmail.com,Spanish
+R13854557,Chinese Mandarin ,"8401 Moreno Cape
+Jasminstad, DC 33944",953.584.7614x35742,contact@chinesemandarin.hotmail.com,Chinese
+R78784398,Italian Trattoria ,"83641 Matthew Tunnel
+Hillhaven, DE 44156",787-238-3080,contact@italiantrattoria.hotmail.com,Italian
+R24490202,Chinese Panda ,"29091 Maddox Glens
+Johnsonville, KS 82305",(772)660-2636x540,contact@chinesepanda.yahoo.com,Chinese
+R70494831,Spanish Tapas ,"6558 Margaret Islands Suite 076
+South Willieshire, VA 47708",001-701-804-1645x7230,contact@spanishtapas.yahoo.com,Spanish
+R35730470,Japanese Noodle ,"79194 Pamela Fields Apt. 172
+Deannaside, ME 03823",001-581-602-9445,contact@japanesenoodle.hotmail.com,Japanese
+R68642848,Greek Olive ,"PSC 7654, Box 0011
+APO AA 36847",359-697-4170x630,contact@greekolive.gmail.com,Greek
+R58370120,Indian Saffron ,"26801 Jonathan Ports
+Murphyfort, ME 65555",572-553-2541x46853,contact@indiansaffron.gmail.com,Indian
+R26412803,American Diner ,"484 Nicholas Extensions
+South Whitney, GU 39491",(788)505-4011x00019,contact@americandiner.hotmail.com,American
+R28903240,Indian Curry ,"0907 Cunningham Course
+West Timothyland, OK 46199",937.689.2912,contact@indiancurry.hotmail.com,Indian
+R69522282,Mexican Casa ,"6772 Daniel Squares
+Trevorfurt, WV 49886",(596)408-6732,contact@mexicancasa.yahoo.com,Mexican
+R46051867,Greek Gyro ,"92814 Dylan Circle
+Baldwinshire, WI 55544",661.833.1373,contact@greekgyro.yahoo.com,Greek
+R86351124,Spanish Fiesta ,"447 Smith Station Apt. 745
+Port Rebeccabury, CT 11084",+1-575-477-4415x498,contact@spanishfiesta.yahoo.com,Spanish
+R94029692,Spanish Tapas ,"94148 Adams Land
+New Kimberly, RI 65319",852-270-4076x673,contact@spanishtapas.hotmail.com,Spanish
+R83220806,Spanish Casa ,"031 Christina Mill Suite 954
+Frankshire, SC 07004",+1-710-300-5303x35577,contact@spanishcasa.yahoo.com,Spanish
+R14073252,Mexican Cantina ,"Unit 5471 Box 5398
+DPO AA 34480",467-385-8603,contact@mexicancantina.hotmail.com,Mexican
+R45010701,Mexican Cantina ,"70671 Margaret Tunnel Suite 470
+Port Brenda, AK 02675",394.283.4568,contact@mexicancantina.hotmail.com,Mexican
+R34473180,Indian Maharaja ,"682 Melissa Inlet
+Port Julian, NE 63454",288-509-7893,contact@indianmaharaja.hotmail.com,Indian
+R71729692,Indian Masala ,"33854 Lisa Vista Suite 504
+Smithville, KY 94664",549.242.7402x166,contact@indianmasala.hotmail.com,Indian
+R70527499,American Steakhouse ,"178 Stephen Spur Suite 730
+Reneechester, CT 66087",+1-517-839-3559x71928,contact@americansteakhouse.yahoo.com,American
+R64284712,Thai Bangkok ,"911 Kyle Squares
+New Christopherfurt, OK 80896",(530)949-3210,contact@thaibangkok.yahoo.com,Thai
+R38410673,Japanese Tokyo ,"2283 Foster Isle Apt. 035
+North Jasonburgh, WV 14855",(778)840-5767,contact@japanesetokyo.yahoo.com,Japanese
+R95792869,Spanish Casa ,"Unit 4983 Box 3855
+DPO AP 20238",400.280.1141,contact@spanishcasa.gmail.com,Spanish
+R63530221,American Barbecue ,"04091 Sanford Key
+West Amyville, MS 13135",(371)542-2373,contact@americanbarbecue.yahoo.com,American
+R76263720,Spanish Fiesta ,"19376 Jamie Hollow
+Port Robert, MN 92719",(222)614-8370x5181,contact@spanishfiesta.gmail.com,Spanish
+R57036247,American Burger ,"USS Guzman
+FPO AA 69475",+1-528-555-2085x600,contact@americanburger.gmail.com,American
+R79998897,Chinese Golden ,"USCGC Russell
+FPO AP 55322",(373)606-2467x52154,contact@chinesegolden.hotmail.com,Chinese
+R26007183,American Grill ,"867 Lee Springs
+Cynthiamouth, OR 68693",345.374.6354x91356,contact@americangrill.yahoo.com,American
+R80930845,Japanese Sushi ,"0737 Villanueva Row Apt. 180
+Wagnerberg, VI 88956",001-948-614-9663,contact@japanesesushi.gmail.com,Japanese
+R93732209,Indian Spice ,"USCGC Andrews
+FPO AE 59706",(254)363-8227,contact@indianspice.hotmail.com,Indian
+R60446522,American Steakhouse ,"2889 Murphy Corner Suite 354
+Sarahtown, NJ 67997",4496425495,contact@americansteakhouse.gmail.com,American
+R50912642,Italian Trattoria ,"393 Morgan Mall
+Smithmouth, OH 90295",+1-554-444-2687x068,contact@italiantrattoria.hotmail.com,Italian
+R96969920,Greek Gyro ,"873 Brandi Groves
+Randolphfort, NC 28779",+1-381-782-9412,contact@greekgyro.hotmail.com,Greek
+R93329862,Thai Basil ,"263 Morales Tunnel Suite 305
+Fernandezland, NM 25932",550-221-0585x76314,contact@thaibasil.yahoo.com,Thai
+R93785618,Indian Curry ,"096 Ramos Tunnel Apt. 235
+West Johnmouth, MH 94282",201-223-4106x90014,contact@indiancurry.yahoo.com,Indian
+R14989430,Greek Mykonos ,"860 Owen Parkway
+New Daniel, NM 21525",(306)461-4481x243,contact@greekmykonos.yahoo.com,Greek
+R71666946,Greek Mykonos ,"270 Davidson Centers
+Lake Chase, MP 35220",001-921-894-9171x432,contact@greekmykonos.gmail.com,Greek
+R46885257,Greek Mykonos ,"603 Gonzalez Plains
+Jordanbury, KY 18792",203-560-7460,contact@greekmykonos.gmail.com,Greek
+R68909182,Italian Bistro ,"60495 Martinez Pike
+Frankstad, VA 31157",760-860-1486,contact@italianbistro.hotmail.com,Italian
+R75397118,Greek Mykonos ,"711 Cruz Mount
+Besttown, NH 25532",(583)564-2446x9189,contact@greekmykonos.gmail.com,Greek
+R38616249,Japanese Zen ,"95194 Amy Parkway Apt. 813
+North Patricia, WV 51577",(243)752-2418,contact@japanesezen.gmail.com,Japanese
+R52268516,French Brasserie ,"578 Destiny Forge Apt. 608
+Travisview, IL 33978",(343)469-8525,contact@frenchbrasserie.yahoo.com,French
+R64298433,Italian Osteria ,"1993 Paul Road Apt. 469
+New Gregoryburgh, MD 16241",875.953.4545,contact@italianosteria.hotmail.com,Italian
+R95949599,Mexican Cantina ,"PSC 3099, Box 9193
+APO AA 42835",996.529.9234x66719,contact@mexicancantina.gmail.com,Mexican
+R83480992,Thai Curry ,"1764 David Spring Suite 391
+Stephenfort, SD 52430",471.376.4580,contact@thaicurry.hotmail.com,Thai
+R63006509,Japanese Sakura ,"43340 Jones Tunnel
+Rachelmouth, OH 10716",001-840-304-3120,contact@japanesesakura.gmail.com,Japanese
+R31039131,Spanish Flamenco ,"219 Michael Unions Suite 572
+New Julie, SC 10599",001-542-702-7293x544,contact@spanishflamenco.hotmail.com,Spanish
+R56120637,Indian Tandoor ,"58794 Maddox Tunnel
+Port David, PA 89989",(509)838-5687,contact@indiantandoor.gmail.com,Indian
+R34320149,Italian Osteria ,"148 Manuel Extensions
+Kevinberg, NE 77484",001-236-979-7407x9125,contact@italianosteria.gmail.com,Italian
+R95961868,Indian Tandoor ,"483 Hernandez Parkways Apt. 843
+West Michael, MN 64034",470-205-5790,contact@indiantandoor.hotmail.com,Indian
+R36904776,Japanese Sushi ,"PSC 7281, Box 0113
+APO AE 70293",441-813-9596x566,contact@japanesesushi.gmail.com,Japanese
+R67790634,Italian Osteria ,"65903 William Hills
+Dianehaven, UT 66984",(702)490-8362,contact@italianosteria.gmail.com,Italian
+R66135998,Spanish El ,"PSC 8644, Box 9764
+APO AA 66761",+1-894-961-5806,contact@spanishel.yahoo.com,Spanish
+R43852496,French Brasserie ,"015 Thomas Island
+South Robertview, OR 56216",626-489-1083x93315,contact@frenchbrasserie.gmail.com,French
+R47934566,Chinese Szechuan ,"64569 Lopez Fall
+Yangport, VT 38266",(475)211-1939x707,contact@chineseszechuan.yahoo.com,Chinese
+R29321284,French Cafe ,"675 Estes Orchard
+Amandaside, MA 09064",(883)936-5759x14561,contact@frenchcafe.yahoo.com,French
+R98263381,Mexican Taco ,"91681 Michelle Square Suite 421
+Rachelland, NC 58427",+1-608-915-7622x34187,contact@mexicantaco.yahoo.com,Mexican
+R20257345,Greek Olive ,"8530 Jason Ranch Suite 489
+Ellenton, WV 56239",+1-788-917-2084x7466,contact@greekolive.hotmail.com,Greek
+R88182129,French Cafe ,"4150 Wilson Well Apt. 586
+North Maryland, PR 73737",001-748-845-8821x62666,contact@frenchcafe.hotmail.com,French
+R36103338,Thai Thai ,"1231 Morris Mall
+Johnside, MA 56771",333-325-9017x74435,contact@thaithai.gmail.com,Thai
+R79712703,Spanish Casa ,"80699 Patrick Valley Suite 591
+Port Ashley, AK 48098",(852)301-0272x18388,contact@spanishcasa.gmail.com,Spanish
+R90587079,Indian Tandoor ,"27061 Calhoun Spring Apt. 809
+Port Madelinestad, LA 26632",(275)477-6799x7066,contact@indiantandoor.hotmail.com,Indian
+R59879127,Spanish El ,"Unit 3804 Box 3207
+DPO AP 33966",+1-847-869-7961x5623,contact@spanishel.gmail.com,Spanish
+R56673462,American Smokehouse ,"921 Lisa Station
+Lake Michelleview, ME 42514",4713562578,contact@americansmokehouse.yahoo.com,American
+R10899738,Spanish Casa ,"USNV Watson
+FPO AE 09494",001-708-900-6301x647,contact@spanishcasa.yahoo.com,Spanish
+R57598097,French Gourmet ,"395 Maria Hollow Apt. 472
+Ruizfort, IN 36725",(311)668-2893,contact@frenchgourmet.hotmail.com,French
+R90402292,Chinese Great Wall ,"0435 Susan Shore
+New Sarahtown, IA 97179",354-312-9313x505,contact@chinesegreatwall.yahoo.com,Chinese
+R56248896,Mexican Taco ,"972 Michelle Mountain Apt. 033
+East Christopherhaven, MS 81840",+1-854-790-7548x9061,contact@mexicantaco.gmail.com,Mexican
+R92806693,Italian Pasta ,"852 Peck Fork
+East Loriport, AZ 01937",(740)829-2278x373,contact@italianpasta.gmail.com,Italian
+R98818773,Mexican Casa ,"17348 Vaughn Vista Suite 893
+Pittmanberg, TN 27281",819-821-5490x09962,contact@mexicancasa.gmail.com,Mexican
+R89483871,Italian Trattoria ,"362 Barry Lake Apt. 834
+South Anthonytown, CA 05650",818-713-1336,contact@italiantrattoria.hotmail.com,Italian
+R12696314,American Burger ,"97163 Frank Streets
+Seanmouth, AK 61509",001-961-394-4539,contact@americanburger.yahoo.com,American
+R69270855,Mexican Taco ,"449 Benjamin Ports
+Lake Jenniferstad, MT 52674",001-690-427-9704x027,contact@mexicantaco.hotmail.com,Mexican
+R56610230,Chinese Szechuan ,"Unit 2250 Box 8256
+DPO AA 12578",+1-240-646-2890x6825,contact@chineseszechuan.gmail.com,Chinese
+R66191141,Greek Santorini ,"3648 Jason Points Suite 223
+Mcguirehaven, AS 83175",+1-332-879-8549x492,contact@greeksantorini.gmail.com,Greek
+R47724999,Mexican Taco ,"9111 Andrade Camp
+Christianport, HI 52615",+1-612-235-0436,contact@mexicantaco.hotmail.com,Mexican
+R59163784,Mexican Taco ,"59245 Martin Lodge
+Larsenview, CO 38409",+1-213-990-3018,contact@mexicantaco.gmail.com,Mexican
+R22670500,Chinese Szechuan ,"832 Huang Stream
+East Brett, AK 98010",465.549.2993,contact@chineseszechuan.hotmail.com,Chinese
+R86511924,Chinese Szechuan ,"66715 Judy Ramp
+Erikafort, GA 23269",602-936-2024x559,contact@chineseszechuan.hotmail.com,Chinese
+R43866983,French Parisian ,"11772 Marcus Mountains
+East Jimmymouth, NC 59996",674.489.2390x850,contact@frenchparisian.hotmail.com,French
+R80625927,Japanese Samurai ,"64410 Tina Street
+Hobbsburgh, OH 09000",421-368-5197,contact@japanesesamurai.gmail.com,Japanese
+R78773833,Spanish Fiesta ,"45158 Steven Underpass Suite 961
+Lake Jason, NV 35936",969-973-3135x74270,contact@spanishfiesta.hotmail.com,Spanish
+R85161568,Greek Gyro ,"4641 David Forest Suite 765
+Barrettfort, AS 85006",001-375-601-9626x405,contact@greekgyro.yahoo.com,Greek
+R95565678,Spanish Flamenco ,"8977 Williams Square
+Port Petermouth, OK 90011",337.216.7982x9045,contact@spanishflamenco.yahoo.com,Spanish
+R74837277,Chinese Mandarin ,"1164 Stephanie Harbor Apt. 684
+Gravesmouth, MA 02857",001-915-389-3411x961,contact@chinesemandarin.gmail.com,Chinese
+R44271087,Spanish Casa ,"4939 Mary Lakes Apt. 411
+North Julialand, AR 51438",(342)971-4715x467,contact@spanishcasa.hotmail.com,Spanish
+R80938324,Italian Bistro ,"PSC 0832, Box 3966
+APO AA 24815",(417)748-3323x49945,contact@italianbistro.hotmail.com,Italian
+R35940721,Japanese Samurai ,"497 Smith Isle
+Lyonsside, FM 32160",+1-970-437-5403,contact@japanesesamurai.yahoo.com,Japanese
+R68376238,Greek Mykonos ,"76669 Cruz Pike
+Blevinsborough, SD 90048",+1-429-668-4823x07575,contact@greekmykonos.hotmail.com,Greek
+R15631334,Mexican Casa ,"0069 Brock Terrace Apt. 873
+Lake Tammyshire, UT 49904",+1-769-523-4931x672,contact@mexicancasa.yahoo.com,Mexican
+R41421429,Chinese Szechuan ,"5686 Pierce Bridge
+East John, IL 06024",2894978703,contact@chineseszechuan.hotmail.com,Chinese
+R41288208,Japanese Sushi ,"393 Ryan Branch Apt. 092
+Margaretside, MN 16204",(398)604-5590x0922,contact@japanesesushi.hotmail.com,Japanese
+R96683314,Greek Taverna ,"4884 Brandon Valley Apt. 026
+Michaelview, TN 35732",991.334.2654x517,contact@greektaverna.gmail.com,Greek
+R66048193,Mexican Taco ,"83953 Wilson Crossroad Suite 331
+Vargasshire, MA 86808",(301)411-1531,contact@mexicantaco.hotmail.com,Mexican
+R12104580,Mexican El ,"USS Campos
+FPO AE 10794",(881)395-7426x2868,contact@mexicanel.gmail.com,Mexican
+R94013453,Italian Trattoria ,"82566 Jones Underpass
+Karaton, WA 31205",+1-401-632-8760x6171,contact@italiantrattoria.hotmail.com,Italian
+R89924940,Chinese Dragon ,"856 Martin Throughway
+Johnsonshire, MI 96141",890-351-0889,contact@chinesedragon.hotmail.com,Chinese
+R68553625,Thai Bangkok ,"157 Michele Lock Apt. 405
+North Johnmouth, KY 06603",001-364-313-4549x83391,contact@thaibangkok.gmail.com,Thai
+R73478965,Spanish Paella ,"888 Cross Spur
+East Brendaport, MI 90484",+1-472-976-3603,contact@spanishpaella.yahoo.com,Spanish
+R34059271,Spanish Fiesta ,"2250 Peterson Wall Apt. 389
+Floresmouth, HI 20388",867-251-9691,contact@spanishfiesta.gmail.com,Spanish
+R90125762,Greek Athena ,"05905 Sonya Haven
+East Mark, KY 98978",+1-597-576-2600,contact@greekathena.hotmail.com,Greek
+R69068499,Chinese Great Wall ,"6749 Decker Lane Suite 678
+Chapmanview, NC 61379",300.659.1758x6923,contact@chinesegreatwall.yahoo.com,Chinese
+R19983526,Italian Ristorante ,"8778 Smith Trail Apt. 460
+Harperland, VT 41512",780.268.3773x760,contact@italianristorante.gmail.com,Italian
+R43419240,American Diner ,"91320 Patel Stravenue Apt. 995
+North Cassidy, GU 60455",+1-480-939-9469x43323,contact@americandiner.hotmail.com,American
+R55117535,French Gourmet ,"8189 Christine Ramp
+New Michaelmouth, KS 02616",357.956.2802,contact@frenchgourmet.gmail.com,French
+R63537184,Japanese Tokyo ,"27777 Powell Terrace Suite 660
+East Dennis, SD 40049",571.725.8434,contact@japanesetokyo.yahoo.com,Japanese
+R15197465,Spanish Tapas ,"798 Julian Summit
+South Jessica, KY 72850",521.796.3956,contact@spanishtapas.yahoo.com,Spanish
+R83891793,American Burger ,"Unit 8657 Box 6508
+DPO AA 22986",(776)935-9651,contact@americanburger.hotmail.com,American
+R24431954,Spanish Paella ,"40605 White Burg
+Kennethstad, MD 24578",+1-962-612-0837x939,contact@spanishpaella.hotmail.com,Spanish
+R75974389,Greek Mykonos ,"USNV Jordan
+FPO AP 65483",(608)551-0251x6457,contact@greekmykonos.yahoo.com,Greek
+R93853868,Japanese Zen ,"856 Anthony Haven
+East James, NC 20955",001-518-869-7309x92187,contact@japanesezen.yahoo.com,Japanese
+R54188109,Chinese Golden ,"198 Orozco Glen Apt. 264
+Lake Johnchester, NY 60087",001-796-327-4100x91483,contact@chinesegolden.gmail.com,Chinese
+R65654188,Mexican Taco ,"19725 Roberto Cliff Apt. 679
+Lake Vincent, VA 25618",561.364.1521,contact@mexicantaco.yahoo.com,Mexican
+R46303557,American Grill ,"Unit 0911 Box 0571
+DPO AP 56800",436-836-4216,contact@americangrill.hotmail.com,American
+R94453519,Chinese Golden ,"58341 Alvarez Parkway Suite 639
+Alexanderton, FM 95724",8195527007,contact@chinesegolden.hotmail.com,Chinese
+R43725377,Chinese Golden ,"18836 Anna Plains Suite 067
+Adamschester, MH 09903",001-490-837-6003x1688,contact@chinesegolden.gmail.com,Chinese
+R17280253,Chinese Great Wall ,"721 Stephanie Plaza
+Phillipsfort, VT 52803",+1-341-613-5343,contact@chinesegreatwall.gmail.com,Chinese
+R65123047,American Grill ,"9283 Ariana Port Suite 718
+North Jesusshire, FL 79709",499.967.8016x61475,contact@americangrill.yahoo.com,American
+R75475993,Italian Pizza ,"9398 Tammy Brooks
+East Natasha, HI 40124",001-735-675-9093,contact@italianpizza.hotmail.com,Italian
+R13162297,Thai Lemongrass ,"389 Parsons Mews
+North Aaron, NC 24096",874.512.8334x2134,contact@thailemongrass.gmail.com,Thai
+R68818485,American Smokehouse ,"388 Michael Vista Apt. 443
+North Saramouth, KS 78750",+1-555-329-3104x362,contact@americansmokehouse.hotmail.com,American
+R85143537,Thai Orchid ,"48439 Tracy Course Apt. 138
+East Tina, FM 95989",845-943-3380,contact@thaiorchid.yahoo.com,Thai
+R32051185,Chinese Szechuan ,"581 Angela Oval Apt. 552
+Williamston, MO 49920",359.847.4667x2541,contact@chineseszechuan.hotmail.com,Chinese
+R90136889,French Chateau ,"03500 Miguel Rest Apt. 339
+Lake Renee, MS 07951",297-431-3626,contact@frenchchateau.hotmail.com,French
+R52126711,Greek Mykonos ,"12887 Walter Extensions Apt. 709
+Watersmouth, VA 68149",+1-991-822-8691,contact@greekmykonos.hotmail.com,Greek
+R58164066,Thai Orchid ,"5133 Keith Points
+North Samuelfurt, NJ 41463",+1-518-971-2773x92488,contact@thaiorchid.hotmail.com,Thai
+R42644875,Mexican Fiesta ,"6639 Pratt Stravenue Suite 024
+East Timothyberg, DC 05223",+1-615-540-6898x738,contact@mexicanfiesta.gmail.com,Mexican
+R24070104,Indian Masala ,"890 Jason Plaza Apt. 086
+Chandlerton, AS 62387",(677)786-4047,contact@indianmasala.hotmail.com,Indian
+R60005262,Indian Tandoor ,"1817 Madeline Plains Apt. 500
+Kimberlyville, MA 25526",+1-783-619-5787,contact@indiantandoor.hotmail.com,Indian
+R50672452,Indian Masala ,"8853 Andrew Trafficway Apt. 275
+Lake Nicole, ND 07029",393.931.1549,contact@indianmasala.yahoo.com,Indian
+R51847848,Italian Pasta ,"133 Keith Estate Apt. 254
+South Jameschester, WI 10333",+1-696-425-9883,contact@italianpasta.yahoo.com,Italian
+R20987852,American Diner ,"622 Rose Cliff
+North Toddshire, ID 05763",+1-773-463-5711x981,contact@americandiner.gmail.com,American
+R66202266,Spanish Paella ,"907 Sandy Street Apt. 943
+Phamberg, FL 44620",965-427-7148x2168,contact@spanishpaella.hotmail.com,Spanish
+R66375744,Italian Bistro ,"709 Connie Flats
+Theresastad, SC 65752",764.534.6888x99427,contact@italianbistro.yahoo.com,Italian
+R54171933,French Chateau ,"3039 Huff Fork Apt. 983
+Ashleyfurt, KS 21714",598-279-1548,contact@frenchchateau.hotmail.com,French
+R64209174,Indian Tandoor ,"5582 Jason Wall
+Valenzuelaberg, AR 49110",(735)247-4696x91456,contact@indiantandoor.hotmail.com,Indian
+R10107519,Mexican Taco ,"15254 Jeffrey Mountains
+West Lindaview, NY 88362",001-932-561-9765x21776,contact@mexicantaco.gmail.com,Mexican
+R84876960,Italian Bistro ,"286 Wilson Avenue Apt. 968
+South Lisahaven, AR 41653",001-376-418-4523x889,contact@italianbistro.hotmail.com,Italian
+R20580480,Japanese Sakura ,"240 Carter Islands Apt. 627
+Lesliemouth, CA 10319",2007087036,contact@japanesesakura.gmail.com,Japanese
+R77634535,American Grill ,"59297 Jesse Locks
+Pricehaven, ME 59582",+1-734-428-6221x419,contact@americangrill.gmail.com,American
+R39599000,American Diner ,"8484 Pratt Skyway
+Pottsstad, WY 32118",001-665-234-6433x1378,contact@americandiner.yahoo.com,American
+R18329211,Chinese Great Wall ,"892 Scott Ridge Apt. 610
+East Jenniferchester, GU 18977",229.265.4949x914,contact@chinesegreatwall.hotmail.com,Chinese
+R59306505,Spanish Fiesta ,"333 Justin Pine Apt. 944
+Port Jenniferbury, KS 69475",5204904833,contact@spanishfiesta.hotmail.com,Spanish
+R67311366,French Parisian ,"55712 Christina Light Suite 024
+Christopherhaven, VA 82434",(385)569-7985,contact@frenchparisian.hotmail.com,French
+R27141279,Spanish Paella ,"39729 Mark Estate Apt. 925
+Port April, SC 86349",859.239.5774,contact@spanishpaella.hotmail.com,Spanish
+R73595172,French Gourmet ,"56891 Brown Meadows Apt. 126
+North Edwardside, WY 13465",414.224.1029,contact@frenchgourmet.yahoo.com,French
+R83245282,Mexican Cantina ,"471 Gardner Street Apt. 377
+Thompsonbury, TN 08738",711.494.2561,contact@mexicancantina.hotmail.com,Mexican
+R16873994,Chinese Great Wall ,"00773 Manuel Pike Suite 926
+Lake Nicoleberg, AR 08269",(849)684-4161x2754,contact@chinesegreatwall.yahoo.com,Chinese
+R96277825,Spanish Paella ,"48498 Bryant Shores Suite 448
+South Johnton, MS 42486",216-816-9063x353,contact@spanishpaella.gmail.com,Spanish
+R69334038,French Parisian ,"4599 Mcdowell Lane Apt. 741
+Whiteborough, GA 38378",(651)611-6605x170,contact@frenchparisian.gmail.com,French
+R45545403,Italian Pizza ,"6823 Jenna Point
+Wilsonfort, MO 26991",620-484-9367x67843,contact@italianpizza.yahoo.com,Italian
+R95524944,Mexican Fiesta ,"PSC 5695, Box 5481
+APO AP 53333",347.713.9254x8550,contact@mexicanfiesta.hotmail.com,Mexican
+R81318735,Spanish Flamenco ,"5748 Linda Freeway Apt. 754
+Nancytown, SC 46269",001-959-218-1139x5635,contact@spanishflamenco.gmail.com,Spanish
+R25078566,Mexican El ,"86101 Matthew Village
+Morrismouth, PA 29205",001-943-831-7227x576,contact@mexicanel.hotmail.com,Mexican
+R44845506,Mexican Casa ,"99915 Gonzalez Pines
+Briannabury, MT 53925",(786)650-0644x65648,contact@mexicancasa.gmail.com,Mexican
+R33188091,Indian Saffron ,"67955 Jermaine Plaza
+Rhondamouth, WY 61264",001-347-460-1454,contact@indiansaffron.hotmail.com,Indian
+R68725587,Indian Spice ,"64858 Caleb Ferry Apt. 667
+Kathrynshire, AZ 87519",8204080770,contact@indianspice.gmail.com,Indian
+R23024716,Spanish El ,"3736 Zachary Lakes Suite 546
+Kingburgh, AZ 64065",458-647-2382x480,contact@spanishel.hotmail.com,Spanish
+R86495732,French Parisian ,"16317 James Trail Apt. 271
+West Henryville, IL 19071",627-893-0250,contact@frenchparisian.yahoo.com,French
+R79353212,American Diner ,"547 Robinson Radial Apt. 956
+Raytown, SC 25079",861-222-9880,contact@americandiner.hotmail.com,American
+R67312206,Italian Pasta ,"105 Lisa Light Suite 582
+New Allison, ME 73863",875.209.1699x75609,contact@italianpasta.yahoo.com,Italian
+R83775674,Indian Saffron ,"4437 Duran Turnpike
+North Jasonport, AL 73440",001-799-334-0731,contact@indiansaffron.hotmail.com,Indian
+R37738533,Greek Olive ,"94229 Powell Landing Apt. 041
+North Teresa, LA 84679",9578276244,contact@greekolive.yahoo.com,Greek
+R75959911,Greek Gyro ,"059 Mark Bypass Apt. 996
+Port Keithtown, NM 95082",(308)726-7567x06996,contact@greekgyro.yahoo.com,Greek
+R19845371,Thai Orchid ,"381 Steven Oval Suite 035
+Frankburgh, MN 39101",236.628.0999,contact@thaiorchid.gmail.com,Thai
+R65308338,Japanese Tokyo ,"93908 Sharon Bypass Apt. 867
+New Richardbury, IL 98442",5193970214,contact@japanesetokyo.hotmail.com,Japanese
+R14044585,French Cafe ,"7966 Jennifer Rapid Suite 450
+West Brianbury, NV 86930",+1-880-868-2791x856,contact@frenchcafe.hotmail.com,French
+R16207675,Thai Basil ,"640 Michelle Springs Suite 763
+Barnettville, PR 81182",269.842.0323x820,contact@thaibasil.yahoo.com,Thai
+R27598101,Greek Athena ,"22918 Kerr Extensions
+New Jacqueline, AS 87063",001-499-983-1969,contact@greekathena.gmail.com,Greek
+R85650128,Mexican Casa ,"737 Meyer Brooks
+East Donna, CO 23925",255-679-1094x83194,contact@mexicancasa.hotmail.com,Mexican
+R63044498,Greek Athena ,"8906 Daniels Crescent Apt. 227
+Christinaville, DE 25377",(659)715-6673x6615,contact@greekathena.hotmail.com,Greek
+R49118806,French Chateau ,"6490 Williams Route Suite 694
+South Jason, TN 49816",434.771.9869,contact@frenchchateau.hotmail.com,French
+R13357257,French Chateau ,"1846 Wilson Fort
+Grimesstad, KY 45350",914-902-1581x7693,contact@frenchchateau.gmail.com,French
+R73106826,Greek Gyro ,"6068 Nicholson Ridges Apt. 709
+West Charlesmouth, MH 98229",580.541.7835,contact@greekgyro.gmail.com,Greek
+R83976237,Greek Gyro ,"7892 Christopher Passage Suite 062
+Kellyport, NV 27175",(350)664-0201x9449,contact@greekgyro.hotmail.com,Greek
+R98932692,Mexican Cantina ,"2244 Rivas Rest
+South Lisa, SC 42143",696.634.4619x22826,contact@mexicancantina.gmail.com,Mexican
+R84083586,Spanish Paella ,"8972 Hurley Green
+Stevenmouth, WI 04201",(710)755-6220x02202,contact@spanishpaella.hotmail.com,Spanish
+R44569584,Chinese Great Wall ,"801 Evans Walks Suite 184
+Port Amy, CT 73077",468-609-6377,contact@chinesegreatwall.gmail.com,Chinese
+R26957924,Mexican Cantina ,"7386 Sarah Village
+Port Davidmouth, PR 61364",4468946429,contact@mexicancantina.yahoo.com,Mexican
+R28977535,American Steakhouse ,"165 Gilbert Crescent Suite 930
+New Jeremyside, RI 18074",756.944.3283x23666,contact@americansteakhouse.gmail.com,American
+R71225873,American Burger ,"USNV Cooke
+FPO AE 53932",380.847.4377x9493,contact@americanburger.hotmail.com,American
